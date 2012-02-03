@@ -1,0 +1,1 @@
+/*	MacDLLMain.c	*/intmain(){	return	0;}

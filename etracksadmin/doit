@@ -1,0 +1,4 @@
+#! /bin/sh
+cd /var/www/vhosts/innovateshowcontrols.com/httpdocs/etracks/sox-14.2.0
+./configure
+make
